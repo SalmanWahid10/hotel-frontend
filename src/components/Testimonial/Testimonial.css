@@ -1,0 +1,78 @@
+.testimonial {
+  margin-top: 18rem;
+  padding: 0 12px;
+}
+.testimonial h3 {
+  font-size: 36px;
+  line-height: 33.12px;
+}
+.testimonial p {
+  text-align: center;
+  font-size: 20px;
+  line-height: 27.82px;
+}
+.test {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+  width: 354.31px;
+  height: 205px;
+  align-items: center;
+}
+
+.test img {
+  width: 132.76px;
+  height: 134px;
+  border-radius: 50%;
+}
+.test-info {
+  margin-left: 1rem;
+}
+.test-info .comment {
+  font-size: 16px;
+  line-height: 20.82px;
+}
+.test-info p {
+  text-align: left;
+}
+
+.test-info div {
+  display: flex;
+  justify-content: space-between;
+}
+
+span.icon {
+  font-size: 15px;
+  background-color: black;
+  border-radius: 50%;
+}
+
+@media (max-width: 475px) {
+  .test img {
+    width: 80px;
+    height: 85px;
+    border-radius: 50%;
+  }
+  .con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 12px;
+  }
+  .testimonial h3 {
+    font-size: 24px;
+    text-align: center;
+  }
+  .testimonial p {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 769px) {
+  .con {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 12px;
+  }
+}
