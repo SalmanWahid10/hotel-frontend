@@ -9,6 +9,8 @@ import Gallery from "./pages/Gallery/Gallery";
 import Home from "./pages/Home/Home";
 import Terms from "./components/Terms/Terms";
 import Privacy from "./components/Pravicy/Privacy";
+import DataDel from "./components/DataDel/DataDel";
+import Faq from "./components/Faq/Faq";
 
 function App() {
   return (
@@ -21,6 +23,8 @@ function App() {
         <Route path="gallery" element={<Gallery />} />
         <Route path="terms" element={<Terms />} />
         <Route path="privacy" element={<Privacy />} />
+        <Route path="dataDel" element={<DataDel />} />
+        <Route path="faq" element={<Faq />} />
       </Routes>
       <Footer />
     </div>

@@ -38,9 +38,19 @@ function Footer() {
           </Col>
           <Col className="ccccc">
             <div>
-              <p>Contact us</p>
-              <p>Feedback</p>
-              <p>FAQ</p>
+              <Link
+                to="contact"
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <p>Contact us</p>
+              </Link>
+
+              <Link
+                to="faq"
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <p>FAQ</p>
+              </Link>
             </div>
             <div>
               <Link
@@ -55,7 +65,12 @@ function Footer() {
               >
                 <p>Privacy Policy</p>
               </Link>
-              <p>Data Deletion Protocol</p>
+              <Link
+                to="dataDel"
+                style={{ textDecoration: "none", color: "inherit" }}
+              >
+                <p>Data Deletion Protocol</p>
+              </Link>
             </div>
           </Col>
         </Row>
