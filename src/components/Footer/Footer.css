@@ -44,11 +44,11 @@
 
 .copyright div {
   /* border: 1px solid red; */
-  width: 27%;
+  width: 50%;
   margin-top: 2rem;
 }
 .copyright div p {
-  text-align: justify;
+  text-align: center;
 }
 
 @media (max-width: 475px) {

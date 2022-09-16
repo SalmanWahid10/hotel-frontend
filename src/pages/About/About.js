@@ -28,43 +28,50 @@ function About() {
         <div className="aboutInfo">
           <h1>"Hello there we meet!</h1>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque
-            magnam magni accusamus enim! Optio quia iste ad maxime debitis
-            sapiente culpa corporis! Iusto hic libero similique provident,
-            perferendis explicabo, minima, deserunt officia in soluta nesciunt
-            qui amet quisquam laudantium illo quis beatae dolorum deleniti minus
-            rerum magni. Tempore velit culpa modi maiores vitae, libero
-            molestiae mollitia cumque beatae, et pariatur aliquam. Numquam
-            deserunt commodi qui earum velit modi quae cupiditate, dolorem sunt
-            temporibus porro quo, quod delectus veritatis quas? Dolor ex minima
-            dolores porro, facere iure, ratione maxime neque accusantium, minus
-            libero ad quam? Excepturi et hic accusantium est iure odit eaque
-            culpa architecto aspernatur delectus. Eveniet temporibus a debitis
-            mollitia sequi ratione nostrum, similique voluptas magnam alias
-            doloremque at quod ipsam! Alias repudiandae itaque distinctio
-            laboriosam, earum sint! Quo molestiae magni rerum suscipit.
-            Accusantium nihil iusto cumque repellendus, vel ducimus error dolore
-            blanditiis iste sunt corporis atque dolores ex sequi aperiam
-            possimus aut et dicta omnis nostrum numquam fugit eligendi! Quisquam
-            fugiat adipisci modi unde exercitationem quam expedita autem eos
-            ipsam, dolorem fuga voluptate atque laudantium voluptates alias
-            voluptatem! Similique, ad. Illo, architecto aliquid illum similique
-            dignissimos fugit veniam temporibus quo quas. Soluta iure,
-            exercitationem vitae modi possimus, voluptas natus illo eveniet
-            expedita ad numquam nesciunt dolore maiores veniam, ipsum quisquam
-            suscipit. Repellendus rem sunt ut doloremque ullam quasi!
-            Consequuntur accusamus ratione nam. Debitis facere molestiae
-            quibusdam ipsa itaque eum, a tenetur ducimus alias totam voluptatem
-            necessitatibus dolor odio officiis repellendus. Iure voluptatibus
-            nam repellendus consectetur reprehenderit ea earum accusamus
-            nesciunt. Necessitatibus dolorem voluptatibus modi tempore illum,
-            rerum iure laborum? Praesentium soluta, eaque excepturi maiores quia
-            suscipit, asperiores nihil, mollitia exercitationem perspiciatis
-            voluptatum alias dolores aliquid! Consequuntur esse suscipit ipsam
-            earum deleniti at nihil, eveniet quibusdam. Veniam temporibus
-            adipisci vitae ipsa, amet voluptas consectetur facere officiis,
-            suscipit id esse.
+            Tourists visiting Kolkata and the Kolkata citizens themselves prefer
+            Digha as their preferred destination. Even the population in and
+            around West Bengal forget their monotonous life by ending up with a
+            weekly visit to Digha on their holidays. At any time, you could be
+            among the visitors, and before you start for the trip, you have to
+            check through the best hotel in Digha so that you can book your stay
+            and do not worry about booking accommodation on landing at this
+            seaside destination. New Sonar Bangla Hotel has been rated as the
+            best hotel in Digha for offering admirable services and opulent
+            accommodation facilities to guests. Our hotels provide all modern
+            facilities and comforts at an affordable price, one could ask for in
+            Digha – making us an ideal place to stay during your trips to Digha.
+            Whether you are a solo traveler, or in a group with your friends or
+            family, do not worry about booking the budget-friendly hotel, since
+            Iconic Hotel is here to welcome you.
           </p>
+          <h3>New Sonar Bangla is Inspired By Natural Beauty</h3>
+          <p>
+            The original meaning of iconic was essentially “resembling an
+            icon,”- and we believe in providing such a magnificent experience to
+            our guests. Best and most desirable locations near Mandarmani. Here,
+            we simply love to pamper our guests with the finest indulgences they
+            seek from life. At our hotels in Digha, our guests are allowed to
+            experience exciting entertainment and activities, dining options,
+            and luxury amenities
+          </p>
+          <h3>Hotel Where The Guests Can be Together and Be Nourished</h3>
+          <p>
+            From purpose-built stays for single executives on the fly, couples
+            on a romantic weekend, or vi/pant families exploring the novelties
+            in town, there is something special for everyone. We believe that
+            our guests should get a feel of our history, culture, and traditions
+            and not be given only a cosmetic experience. Each guest room is
+            appointed to ensure an indulgent and all-around comfort for an
+            experience you will never forget. Rooms are accoutered with your
+            every need in mind. Think of it and find it, you don’t even have to
+            ask!!! Complimentary Broadband and the Televisions in each room
+            complete a well-rounded offering. It is simplicity, which is the
+            ultimate in style.
+          </p>
+          <h2>
+            Book your stay at our hotels in New Digha and enjoy your grand
+            holiday or Business trip at New Sonar Bangla Hotel.
+          </h2>
         </div>
       </div>
 

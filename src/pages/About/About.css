@@ -34,6 +34,16 @@
   font-weight: bold;
   color: #121212;
 }
+.aboutInfo h2 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #121212;
+}
+.aboutInfo h3 {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: #121212;
+}
 
 .aboutInfo p {
   text-align: justify;

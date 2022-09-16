@@ -16,6 +16,7 @@ import wh from "../../img/wh.png";
 import insta from "../../img/insta.png";
 import y from "../../img/y.png";
 import { Button, TextareaAutosize, TextField } from "@mui/material";
+import { FormControl } from "react-bootstrap";
 
 function Contact() {
   return (
@@ -66,12 +67,14 @@ function Contact() {
           </div>
           <div>
             <TextField
+              required
               id="filled-number"
               label="Phone Number"
-              type="number"
-              InputLabelProps={{
-                shrink: true,
-              }}
+              type="tel"
+              // maxLength="10"
+              // InputLabelProps={{
+              //   shrink: true,
+              // }}
               style={{ width: "100%" }}
               variant="filled"
             />

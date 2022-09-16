@@ -64,14 +64,14 @@ function Banner() {
                   controlId="exampleForm.ControlInput1"
                 >
                   <Form.Label>Check In</Form.Label>
-                  <Form.Control type="date" />
+                  <Form.Control type="date" required="true" />
                 </Form.Group>
                 <Form.Group
                   className="mb-3 w-60 ms-auto"
                   controlId="exampleForm.ControlInput1"
                 >
                   <Form.Label>Check Out</Form.Label>
-                  <Form.Control type="date" />
+                  <Form.Control type="date" required="true" />
                 </Form.Group>
                 <Form.Group
                   className="mb-3 w-60 ms-auto"

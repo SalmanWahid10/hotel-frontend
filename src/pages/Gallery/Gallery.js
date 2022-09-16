@@ -6,6 +6,7 @@ import Col from "react-bootstrap/Col";
 import g from "../../img/g.png";
 import img6 from "../../img/img6.png";
 import GalleryImg from "../../components/GalleryImg/GalleryImg";
+import GalleryImgg from "../../components/GalleryImgg/GalleryImgg";
 
 function Gallery() {
   return (
@@ -18,7 +19,7 @@ function Gallery() {
       <div className="galleryImg">
         <div className="galleryInfo">
           <h3>OUR ROOMS</h3>
-          <GalleryImg />
+          <GalleryImgg />
         </div>
         <div className="galleryInfo">
           <h3>OUR INFRASTRUCTURE</h3>

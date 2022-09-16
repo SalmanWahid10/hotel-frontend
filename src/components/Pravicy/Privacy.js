@@ -14,13 +14,13 @@ function Privacy() {
       </Container>
 
       <Container className="privacyText1">
-        <p>Four Square Hotels- By Basu Hotels &gt; Terms and Conditions</p>
+        <p>New Sonar Bangla Hotel &gt; Terms and Conditions</p>
       </Container>
       <Container className="m-auto">
         <p className="fs-4">
-          Four Square Hotels respects the privacy of all our guests, and we are
-          committed to protecting it. This policy describes how we collect, use,
-          and disclose information about our guests.
+          New Sonar Bangla Hotel respects the privacy of all our guests, and we
+          are committed to protecting it. This policy describes how we collect,
+          use, and disclose information about our guests.
         </p>
       </Container>
       <Container className="m-auto">
@@ -37,9 +37,9 @@ function Privacy() {
       <Container className="m-auto">
         <h1 className="infoH">USE OF INFORMATION</h1>
         <p className="fs-4 lh-base">
-          Four Square Hotels use your personal data to fulfil the purpose for
-          which it was provided, or as otherwise set forth in this policy. For
-          example, we may use your personal data as necessary to:
+          New Sonar Bangla Hotel use your personal data to fulfil the purpose
+          for which it was provided, or as otherwise set forth in this policy.
+          For example, we may use your personal data as necessary to:
         </p>
       </Container>
       <Container className="m-auto">
@@ -54,7 +54,7 @@ function Privacy() {
             <KeyboardDoubleArrowRightIcon
               style={{ color: "#F57328", marginRight: "1rem" }}
             />
-            Enroll you in Four Square Hotels loyalty program
+            Enroll you in New Sonar Bangla Hotel loyalty program
           </ListGroup.Item>
           <ListGroup.Item style={{ fontSize: "1.6rem", padding: "1rem" }}>
             <KeyboardDoubleArrowRightIcon
@@ -73,12 +73,6 @@ function Privacy() {
               style={{ color: "#F57328", marginRight: "1rem" }}
             />{" "}
             Provide you with a personalized experience on our websites;
-          </ListGroup.Item>
-          <ListGroup.Item style={{ fontSize: "1.6rem", padding: "1rem" }}>
-            <KeyboardDoubleArrowRightIcon
-              style={{ color: "#F57328", marginRight: "1rem" }}
-            />
-            Contact you about your reservation;
           </ListGroup.Item>
           <ListGroup.Item style={{ fontSize: "1.6rem", padding: "1rem" }}>
             <KeyboardDoubleArrowRightIcon
@@ -105,10 +99,10 @@ function Privacy() {
       <Container className="m-auto">
         <h1 className="infoH">SECURITY OF PERSONAL DATA</h1>
         <p className="fs-4 lh-base">
-          Four Square Hotels is committed to the security of your personal data.
-          (We use commercially reasonable technical measures to protect personal
-          data in our possession like credit card information, name, address,
-          email and other sensitive information you provide to us).
+          New Sonar Bangla Hotel is committed to the security of your personal
+          data. (We use commercially reasonable technical measures to protect
+          personal data in our possession like credit card information, name,
+          address, email and other sensitive information you provide to us).
         </p>
       </Container>
     </div>

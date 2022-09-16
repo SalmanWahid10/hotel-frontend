@@ -6,7 +6,7 @@ import Col from "react-bootstrap/Col";
 import c1 from "../../img/c1.jpeg";
 import c2 from "../../img/c2.jpeg";
 import c3 from "../../img/c3.jpeg";
-import { FaStar } from "react-icons/fa";
+import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 
 function Testimonial() {
   return (
@@ -23,7 +23,6 @@ function Testimonial() {
             <div className="test-info">
               <div>
                 <span className="name">Avidreepta Gupta</span>
-                <span className="icon">💬</span>
               </div>
 
               <p>
@@ -46,14 +45,13 @@ function Testimonial() {
             <div className="test-info">
               <div>
                 <span>Debarshee Sanyal</span>
-                <span className="icon">💬</span>
               </div>
               <p>
                 <FaStar />
                 <FaStar />
                 <FaStar />
                 <FaStar />
-                <FaStar />
+                <FaStarHalfAlt />
               </p>
               <p className="comment">
                 Nice place, the cook cum attendend is very polite and always
@@ -67,14 +65,13 @@ function Testimonial() {
             <div className="test-info">
               <div>
                 <span>Rouhin Ghosh</span>
-                <span className="icon">💬</span>
               </div>
               <p>
                 <FaStar />
                 <FaStar />
                 <FaStar />
                 <FaStar />
-                <FaStar />
+                <FaStarHalfAlt />
               </p>
               <p className="comment">
                 I absolutely loved it!!! Great place to stay with well equipped
