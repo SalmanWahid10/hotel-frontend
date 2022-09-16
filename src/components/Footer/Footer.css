@@ -52,10 +52,6 @@
 }
 
 @media (max-width: 475px) {
-  .cccc .sociall {
-    /* display: flex;
-    flex-direction: column; */
-  }
   .rrr {
     padding: 0 4px;
     display: flex;
@@ -83,5 +79,27 @@
     justify-content: space-between;
     margin-left: 2rem;
     margin-top: 1.2rem;
+  }
+}
+
+@media (max-width: 769px) {
+  .sociall img {
+    justify-content: space-between;
+    margin-left: 2rem;
+    margin-top: 1.8rem;
+  }
+  .copyright div {
+    /* border: 1px solid red; */
+    width: 80%;
+    margin-top: 2rem;
+  }
+  .copyright div p {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  .cccc {
+    margin-bottom: 12px;
+    align-items: center;
+    text-align: center;
   }
 }

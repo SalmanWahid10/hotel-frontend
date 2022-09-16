@@ -17,6 +17,7 @@ function Section() {
           <h3>Rooms That Makes Us Among the Best Digha Hotels</h3>
           <p>Fully Equipped Room with all facilities in digha</p>
         </div>
+        <div className="clearfix"></div>
         <div className="sectionBottom">
           <Container fluid>
             <Row xs={1} md={3} lg={3}>
@@ -29,6 +30,8 @@ function Section() {
               <Col className="sec-img">
                 <img src={a3} alt="" />
               </Col>
+
+              <div className="clearfix"></div>
             </Row>
           </Container>
         </div>

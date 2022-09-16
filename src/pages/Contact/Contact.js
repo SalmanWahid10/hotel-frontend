@@ -154,7 +154,7 @@ function Contact() {
         </div>
         <div>
           <p className="contactBold">Email: </p>{" "}
-          <p>mailto:newsonarbanglaresort@gmail.com</p>
+          <p>newsonarbanglaresort@gmail.com</p>
         </div>
       </div>
     </div>

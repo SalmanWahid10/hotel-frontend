@@ -78,9 +78,9 @@
 
 @media (max-width: 475px) {
   .book {
-    width: 280px;
-    left: 16vw;
-    top: 280px;
+    width: 280px !important;
+    left: 16vw !important;
+    top: 280px !important;
   }
 }
 
@@ -89,5 +89,6 @@
     width: 420px;
     left: 25vw;
     top: 480px;
+    position: absolute;
   }
 }

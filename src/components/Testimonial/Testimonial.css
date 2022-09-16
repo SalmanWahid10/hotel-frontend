@@ -66,6 +66,10 @@ span.icon {
   .testimonial p {
     font-size: 16px;
   }
+  .testimonial .con .row {
+    flex-direction: column;
+    flex-wrap: nowrap;
+  }
 }
 
 @media (max-width: 769px) {

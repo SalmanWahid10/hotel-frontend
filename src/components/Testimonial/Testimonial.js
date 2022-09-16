@@ -14,6 +14,8 @@ function Testimonial() {
       <h3>OUR GUESTS LOVE US</h3>
       <p>What our guests are saying about us</p>
 
+      <div className="clearfix"></div>
+
       <Container fluid className="con">
         <Row>
           <Col className="test">

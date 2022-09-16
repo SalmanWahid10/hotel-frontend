@@ -47,6 +47,8 @@ function Banner() {
           </Carousel.Item>
         </Carousel>
 
+        <div className="clearfix"></div>
+
         <div className="book">
           <Card style={{ width: "100%" }} className="car">
             <Card.Body>
@@ -80,6 +82,8 @@ function Banner() {
                 </Form.Group>
               </Form>
 
+              <div className="clearfix"></div>
+
               <div className="btnn">
                 <a onClick={handleShow}>Check Availability</a>
 
@@ -93,9 +97,11 @@ function Banner() {
                   </Modal.Footer>
                 </Modal>
               </div>
+              <div className="clearfix"></div>
             </Card.Body>
           </Card>
         </div>
+        <div className="clearfix"></div>
       </div>
 
       <div>
