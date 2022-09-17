@@ -16,7 +16,6 @@ import wh from "../../img/wh.png";
 import insta from "../../img/insta.png";
 import y from "../../img/y.png";
 import { Button, TextareaAutosize, TextField } from "@mui/material";
-import { FormControl } from "react-bootstrap";
 
 function Contact() {
   return (

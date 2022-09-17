@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, ListGroup, Row } from "react-bootstrap";
+import { Container, ListGroup, Row, Col } from "react-bootstrap";
 import "./Term.css";
 
 import KeyboardDoubleArrowRightIcon from "@mui/icons-material/KeyboardDoubleArrowRight";
@@ -8,8 +8,10 @@ function Terms() {
   return (
     <div className="header">
       <Container fluid>
-        <Row className="termsRow">
-          <h1>TERMS AND CONDITIONS</h1>
+        <Row>
+          <Col className="termsRow">
+            <h1>TERMS AND CONDITIONS</h1>
+          </Col>
         </Row>
       </Container>
 

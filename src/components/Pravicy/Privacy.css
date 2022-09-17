@@ -32,3 +32,21 @@
   font-size: 2.5rem;
   margin: 1.6rem 0;
 }
+
+@media (max-width: 475px) {
+  .privacyRow h1 {
+    font-size: 4rem;
+    letter-spacing: 1.8px;
+  }
+  /* .privacyText1 {
+    align-items: center;
+    text-align: center;
+  } */
+  .privacy {
+    align-items: center;
+    text-align: center;
+  }
+  .list-group {
+    text-align: start !important;
+  }
+}

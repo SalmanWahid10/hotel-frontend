@@ -12,6 +12,10 @@ import wy from "../../img/wy.png";
 import { Link } from "react-router-dom";
 
 function Footer() {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <div className="footer">
       <Container fluid className="ccc">
@@ -40,33 +44,30 @@ function Footer() {
             <div>
               <Link
                 to="contact"
+                onClick={scrollToTop}
                 style={{ textDecoration: "none", color: "inherit" }}
               >
                 <p>Contact us</p>
               </Link>
-
-              <Link
-                to="faq"
-                style={{ textDecoration: "none", color: "inherit" }}
-              >
-                <p>FAQ</p>
-              </Link>
-            </div>
-            <div>
               <Link
                 to="terms"
+                onClick={scrollToTop}
                 style={{ textDecoration: "none", color: "inherit" }}
               >
                 <p>Terms and Conditions</p>
               </Link>
+            </div>
+            <div>
               <Link
                 to="privacy"
+                onClick={scrollToTop}
                 style={{ textDecoration: "none", color: "inherit" }}
               >
                 <p>Privacy Policy</p>
               </Link>
               <Link
                 to="dataDel"
+                onClick={scrollToTop}
                 style={{ textDecoration: "none", color: "inherit" }}
               >
                 <p>Data Deletion Protocol</p>

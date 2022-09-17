@@ -1,5 +1,5 @@
 import React from "react";
-import { Container, ListGroup, Row } from "react-bootstrap";
+import { Container, ListGroup, Row, Col } from "react-bootstrap";
 import "./Privacy.css";
 
 import KeyboardDoubleArrowRightIcon from "@mui/icons-material/KeyboardDoubleArrowRight";
@@ -8,8 +8,10 @@ function Privacy() {
   return (
     <div className="privacy">
       <Container fluid>
-        <Row className="privacyRow">
-          <h1>PRIVACY POLICY</h1>
+        <Row>
+          <Col className="privacyRow">
+            <h1>PRIVACY POLICY</h1>
+          </Col>
         </Row>
       </Container>
 
