@@ -13,6 +13,10 @@ import a5 from "../../img/img2.png";
 import { Link } from "react-router-dom";
 
 function About() {
+  const scrollToTop = () => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
   return (
     <div className="about">
       <Container fluid>
@@ -95,7 +99,11 @@ function About() {
         </div>
       </div>
       <div className="discovery">
-        <Link style={{ textDecoration: "none" }} to="../gallery">
+        <Link
+          style={{ textDecoration: "none" }}
+          onClick={scrollToTop}
+          to="../gallery"
+        >
           <p className="dis">Discover Our Gallery</p>
         </Link>
       </div>
