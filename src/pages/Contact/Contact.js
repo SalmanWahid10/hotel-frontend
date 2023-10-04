@@ -5,7 +5,6 @@ import Box from "@mui/material/Box";
 // import TextField from "@mui/material/TextField";
 
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 import g from "../../img/g.png";
 import img4 from "../../img/ab.png";
 import img5 from "../../img/img5.png";

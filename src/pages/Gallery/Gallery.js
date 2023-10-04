@@ -2,9 +2,7 @@ import React from "react";
 import "./Gallery.css";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
-import Col from "react-bootstrap/Col";
 import g from "../../img/g.png";
-import img6 from "../../img/img6.png";
 import GalleryImg from "../../components/GalleryImg/GalleryImg";
 import GalleryImgg from "../../components/GalleryImgg/GalleryImgg";
 
